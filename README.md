@@ -1,24 +1,13 @@
-# README
+Companion app for https://jasonfleetwoodboldt.com/courses/guide-to-rails-heart-react/guide-to-rails-heart-react-part-1-getting-started/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please see branches
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+```option-b-mix-and-mingle```
 
-* Database creation
+or
 
-* Database initialization
+```option-c-segregated-apps```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
